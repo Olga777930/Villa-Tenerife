@@ -945,9 +945,9 @@ var APP_DATA = {
       ],
       "faceSize": 2976,
       "initialViewParameters": {
-        "yaw": 3.087668253238686,
-        "pitch": -0.01091944416356938,
-        "fov": 1.5707963267948966
+        "yaw": 3.1023349474387034,
+        "pitch": -0.00010752596354812738,
+        "fov": 1.5681948561855743
       },
       "linkHotspots": [
         {
@@ -999,16 +999,16 @@ var APP_DATA = {
       ],
       "faceSize": 2976,
       "initialViewParameters": {
-        "yaw": -0.013213485733412966,
-        "pitch": -0.03706268665705181,
+        "yaw": -1.7590167661557388,
+        "pitch": 0.0011463434701664,
         "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": -0.08326291985130041,
-          "pitch": 0.18596721615240597,
+          "yaw": -1.4950620501822982,
+          "pitch": 0.22693530027144426,
           "rotation": 0,
-          "target": "18-habitacion-en-la-planta-de-arriba-2"
+          "target": "15-habitacion-en-la-planta-de-arriba-"
         }
       ],
       "infoHotspots": []
